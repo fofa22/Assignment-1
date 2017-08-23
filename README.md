@@ -1,3 +1,4 @@
 # project1
 terminology
-repirotary - local and remote
+- repirotary 
+- local and remote
