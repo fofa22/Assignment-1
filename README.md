@@ -1,4 +1,9 @@
 # project1
-terminology
-1- repirotary - local and remote
-2- branches - master trunk/ feature release and (others, release, hotfix)
+ - terminology:
+ 
+* repirotary - local and remote
+* branches - master trunk/ feature release and (others, release, hotfix)
+
+- IOS Basic flow:
+
+ * split branches and idetify both master and feature.
